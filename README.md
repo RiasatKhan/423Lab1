@@ -1,4 +1,4 @@
-# 423Lab2
+# 423Lab1
 CSE 423 Lab 2 Last two digits of ID
 
 ## Run the following commands in Ubuntu with Python 3+ and pip3+ as default

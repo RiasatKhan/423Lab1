@@ -25,7 +25,6 @@ def iterate():
     glViewport(0, 0, 1000,1000)
     glMatrixMode(GL_PROJECTION)
     glLoadIdentity()
-    glOrtho(0.0, 500, 0.0, 500, 0.0, 1.0)
     gluOrtho2D(-250, 250, -150, 150)
 
 def showScreen():
